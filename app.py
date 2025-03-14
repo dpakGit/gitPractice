@@ -1,8 +1,1 @@
-Date : 13.3.2025
-Practice
-`````````````````````````````````````
-2nd commit 
-
-This is the second commit.......
-
-``````````````````````````````````````````
+initial commit date 14.3.2025
